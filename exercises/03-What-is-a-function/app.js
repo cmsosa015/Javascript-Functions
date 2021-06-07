@@ -10,3 +10,7 @@ var total3 = sum(2,3);
 console.log(total);
 console.log(total2);
 console.log(total3);
+
+function sum(number1,number2) {
+  return number1 + number2;
+}

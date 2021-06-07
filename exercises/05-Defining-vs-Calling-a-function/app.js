@@ -1,4 +1,6 @@
 //Define the function called "multi" that expects 2 parameters:
+let multi= function(number1,number2)
+{ return number1 * number2}
 
 
   //don't edit anything below this line
